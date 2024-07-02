@@ -1,10 +1,10 @@
 <h4>this is the file of implementation of calculator</h4>
 follow this given steps
 step 1. Login to  AWS console
-step 2. create ec2 machine
-step 3. configure security group (select TCP and give sources as 0.0.0.0/0 to allow all traffic )
-step 4. connect to ec2 machine on mobaxterm terminal or any through ssh .
-step 5. install httpd webserver in machine(used to run web app)
+step 2. create ec2 instance.
+step 3. give configure security group (select TCP and give sources as 0.0.0.0/0 to allow all traffic )
+step 4. connect to ec2 machine on mobaxterm terminal or any , through ssh .
+step 5. install httpd webserver in machine ( used to run web app )
    sudo su
    yum update -y
    yum install httpd -y
