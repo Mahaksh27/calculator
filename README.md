@@ -16,5 +16,5 @@ step 5. install httpd webserver in machine ( used to run web app )<br>
    mv script.js /var/www/html<br>
    mv style.css /var/www/html<br>
    mv utils.css /var/www/html<br>
-   service httpd start<br><br>
+   service httpd start<br>
 step 6. access website from browser using ec2 public ip or DNS.<br>
