@@ -1,5 +1,5 @@
 <h2>This is the file of implementation of calculator</h2>
-<h3>Follow this given steps</h3><br>
+<h3>Follow this given steps</h3>
 step 1. Login to  AWS console<br>
 step 2. create ec2 instance.<br>
 step 3. give configure security group (select TCP and give sources as 0.0.0.0/0 to allow all traffic )<br>
